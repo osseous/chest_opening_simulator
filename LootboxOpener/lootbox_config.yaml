@@ -1,0 +1,13 @@
+Seed: 1112123
+OpeningsPerPlayer: 2000
+NumOfPlayer: 10
+Processes: 4
+testbox: box1
+Boxes:
+  box1:
+    items:
+    - name: "Common item"
+      probability: 0.999650
+    - name: "Goblin's Hat"
+      probability: 0.000350
+
